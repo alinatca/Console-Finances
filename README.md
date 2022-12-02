@@ -11,7 +11,7 @@ This project was a really hard one for me, as is my first time dealing with Java
 
 Here is the live URL: https://alinatca.github.io/Console-Finances
 
-Preview the console below: Preview the console below: ![website-layout](website-preview.png)
+Preview the console below: Preview the console below: ![website-layout](console-finances.png)
 
 
 # Things I learned
