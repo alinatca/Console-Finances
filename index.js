@@ -143,3 +143,11 @@ var index = changes.indexOf(max) + 1;
 console.log(
   "Greatest Increase in Profits: " + finances[index][0] + " ($" + max + ")"
 );
+
+// The greatest decrease in losses (date and amount) over the entire period.
+var min = Math.min(...changes);
+var index = changes.indexOf(min) + 1;
+// Print the Greatest Decrease
+console.log(
+  "Greatest Decrease in Profits: " + finances[index][0] + " ($" + min + ")"
+);
