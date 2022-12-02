@@ -9,7 +9,7 @@ I had to write the code to identify the total number of the months, the total am
 This project was a really hard one for me, as is my first time dealing with Javascript by my own. I had to do a lot of research, spend a lot of time understand what everything means and how I can apply what I've seen on Google to my list of tasks. 
 
 
-Here is the live URL: https://alinatca.github.io/Console-Finances
+Here is the live URL: https://alinatca.github.io/Console-Finances/
 
 Preview the console below: Preview the console below: ![website-layout](console-finances.png)
 
