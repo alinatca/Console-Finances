@@ -135,3 +135,11 @@ average = (finances[0][1] + changesSum) / finances.length;
 // Print the average changes
 
 console.log("Average Change: $" + average.toFixed(2));
+
+// The greatest increase in profits (date and amount) over the entire period.
+var max = Math.max(...changes);
+var index = changes.indexOf(max) + 1;
+// Print the Greatest Increase
+console.log(
+  "Greatest Increase in Profits: " + finances[index][0] + " ($" + max + ")"
+);
